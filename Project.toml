@@ -45,6 +45,10 @@ TuringUtilities = "0.2.3"
 julia = "1.6.7"
 
 [sources]
+PriorityHeuristicModels = {url = "https://github.com/itsdfish/PriorityHeuristicModels.jl"}
+QuantumDynamicInconsistencyModels =  {url = "https://github.com/itsdfish/QuantumDynamicInconsistencyModels.jl"}
+ReferencePointModels = {url = "https://github.com/itsdfish/ReferencePointModels.jl"}
+TrueAndErrorDependentModels = {url = "https://github.com/itsdfish/TrueAndErrorDependentModels.jl"}
 TrueAndErrorModels = {url = "https://github.com/itsdfish/TrueAndErrorModels.jl"}
 TuringUtilities = {url = "https://github.com/itsdfish/TuringUtilities.jl"}
 
